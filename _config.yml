@@ -40,12 +40,12 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "cailin0121@gmail.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
-  linkedin: inkedin.com/in/cai-lin/
+# facebook: deanattali
+  github: https://github.com/kai-ion
+#  twitter: daattali
+#  patreon: DeanAttali
+#  youtube: c/daattali
+  linkedin: linkedin.com/in/cai-lin/
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
