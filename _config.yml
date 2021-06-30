@@ -16,9 +16,9 @@ author: Cai Lin
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+   # - Beautiful Jekyll: "https://beautifuljekyll.com"
+   # - Learn markdown: "https://www.markdowntutorial.com/"
+  #Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
@@ -45,7 +45,7 @@ social-network-links:
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
-  linkedin: linkedin.com/in/cai-lin/
+  linkedin: cai-lin
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
