@@ -16,6 +16,7 @@ author: Cai Lin
 navbar-links:
   About Me: "aboutme"
   Projects:
+    - Odin Receipe: "https://kai-ion.github.io/odin-recipes"
    # - Beautiful Jekyll: "https://beautifuljekyll.com"
    # - Learn markdown: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
