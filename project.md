@@ -11,6 +11,8 @@ Odin Project ---- [link](https://github.com/kai-ion/Odin-Project)
 
  * [Odin Recipes Project](https://kai-ion.github.io/odin-recipes/) 
  * [Odin Landing Page](https://kai-ion.github.io/odin-landing-page/) 
+
+Stock Prediction Webapp ---- [Link](https://kaiion-stock-prediction-webapp.streamlit.app/)
  
 
 ### Certifications
