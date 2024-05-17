@@ -4,15 +4,33 @@ title: AWS Cloud Resume Challenge
 subtitle: Create and host a cloud resume website
 gh-repo: https://github.com/kai-ion/aws-cloud-resume
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [AWS, Cloud, Web Development]
 comments: true
 ---
 
-This is a demo post to show you my progress in the AWS Cloud Resume Challange
+This is a demo post to show you my progress in the [AWS Cloud Resume Challange](https://cloudresumechallenge.dev/docs/the-challenge/aws/)
 
 **Steps**
 
-## Here is a secondary heading
+1. Static website
+2. Custom Domain
+3. S3 bucket
+4. Cloudfront
+5. SSL Certificate
+6. Route53 DNS Management
+7. Javascript - Visitor Counter
+8. DynamoDB
+9. AWS Lambda_Function
+10. AWS Lambda_Function connection
+11. Git and CI/CD
+
+## Static Website
+
+1. I created my static website based on a template
+
+![website](/assets/img/img-AWS-Cloud-Resume/website.PNG)
+
+## Custom Domain
 
 Here's a useless table:
 
