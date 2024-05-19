@@ -32,6 +32,11 @@ This is a demo post to show you my progress in the [AWS Cloud Resume Challange](
 
 ## Custom Domain
 
+1. I used namecheap to purchase one domain and then I also used AWS Route 53 to purchase a domain
+- https://www.namecheap.com/
+- https://aws.amazon.com/route53/ 
+
+
 Here's a useless table:
 
 | Number | Next number | Previous number |
